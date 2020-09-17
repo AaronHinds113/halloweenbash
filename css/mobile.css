@@ -1,0 +1,46 @@
+
+
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+ 
+}
+
+/* Heading styles */
+
+h1, h2 {
+  padding: 0.625rem 1.25rem 0 1.25rem; /* 10 20 0 20px */
+}
+
+/* Section styles */
+
+.pumpkin img {
+  border-radius: 0;
+   line-height: 0;
+}
+.intro {
+  padding: 0.625rem 1.25rem 0.3125rem 1.25rem; /* 10 20 5 20px */
+  background: #FFFFFF;
+}
+.contact {
+  padding: 0.625rem 0; /* 10 0px */
+}
+.footer {
+  border-radius: 0;
+}
+
+/* Aside styles */
+
+aside {
+  text-align: center;
+}
+
+aside.right, aside.left {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+  width: 37.5%;
+  padding: 0 0 0.3125rem 0; /* 0 0 5 0px */
+}
